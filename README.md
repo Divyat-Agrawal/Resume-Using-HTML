@@ -1,1 +1,1 @@
-Making Portfolio Using HTML 
+Hi everyone this is simple resume website using HTML only
